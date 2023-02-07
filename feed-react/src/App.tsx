@@ -3,7 +3,7 @@ import { Post } from './components/Post'
 import './components/global.scss'
 
 import styles from './App.module.scss'
-import { Sidebar } from './components/sidebar'
+import { Sidebar } from './components/Sidebar'
 
 export function App() {
 
